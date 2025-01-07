@@ -10,7 +10,6 @@
   - ℹ️**LinkedIn**: [bhavanachemuturi](https://www.linkedin.com/in/bhavana-chemuturi/)   
   - 📫**Email**: chemuturib@gmail.com  
 
---
 ## Tech Stack
 ### Programming Languages:
 - ☕ Java  
