@@ -5,7 +5,7 @@
 - 🌱 I’m eager to learn anything and everything related to software development including cloud computing, with a special focus on exploring **Artificial Intelligence (AI)** and **Machine Learning (ML)**.    
 - 🎯 I'm currently learning Data Structures and Algorithms (C++ and Java), Computer Architecture (MIPS), and C in Unix!
 - 😄 Pronouns: She/her
-- ✨ Fun Fact: I’m a big tennis and pickleball enthusiast and enjoy participating in hackathons & tech clubs!
+- ✨ Fun Fact: I’m a big tennis, cricket, and pickleball enthusiast and enjoy participating in hackathons & tech clubs!
 - 💞️ How to Reach Me:
   - ℹ️**LinkedIn**: [bhavanachemuturi](https://www.linkedin.com/in/bhavana-chemuturi/)   
   - 📫**Email**: chemuturib@gmail.com  
