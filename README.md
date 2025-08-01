@@ -3,7 +3,7 @@
 ## About Me
 - 👋 Hi, I’m **Bhavana Chemuturi**, a passionate Computer Science major trying my best to learn all things tech!  
 - 🌱 I’m eager to learn anything and everything related to software development including cloud computing, with a special focus on exploring **Artificial Intelligence (AI)** and **Machine Learning (ML)**.    
-- 🎯 I'm currently learning Data Structures and Algorithms (C++ and Java), Computer Architecture (MIPS), and C in Unix!
+- 🎯 I'm currently a fellow in Break Through Tech AI learning ML & at university, I am learning Data Structures and Algorithms (C++ and Java), Computer Architecture (MIPS), and C in Unix!
 - 😄 Pronouns: She/her
 - ✨ Fun Fact: I’m a big tennis, cricket, and pickleball enthusiast and enjoy participating in hackathons & tech clubs!
 - 💞️ How to Reach Me:
