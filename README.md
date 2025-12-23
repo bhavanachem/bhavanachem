@@ -6,9 +6,7 @@
 - 🎯 I'm currently a fellow in Break Through Tech AI learning ML & at university, I am learning Data Structures and Algorithms (C++ and Java), Computer Architecture (MIPS), and C in Unix!
 - 😄 Pronouns: She/her
 - ✨ Fun Fact: I’m a big tennis, cricket, and pickleball enthusiast and enjoy participating in hackathons & tech clubs!
-- 💞️ How to Reach Me:
-  - ℹ️**LinkedIn**: [bhavanachemuturi](https://www.linkedin.com/in/bhavana-chemuturi/)   
-  - 📫**Email**: chemuturib@gmail.com  
+- ℹ️**LinkedIn**: [bhavanachemuturi](https://www.linkedin.com/in/bhavana-chemuturi/)   
 
 ## Tech Stack
 ### Programming Languages:
@@ -30,13 +28,16 @@
 ---
 
 ## Projects
-### 🏆 MagicInEveryPixel (Hackathon Winner)
-An Adobe add-on that allows users to upload images, customize backgrounds, and share creations seamlessly. This project won the **Most Creative Add-On** category at the WeHack Hackathon.
+### 🏆 Meta – Bias Evaluation
 
-### 📋 Sorting Algorithm Analyzer
-Analyzed and implemented Insertion Sort, Quick Sort, Merge Sort, and Heap Sort to compare performance and efficiency. Documented findings in a detailed report.
+Breakthrough Tech AI Fellowship project with Meta mentors. Fine-tuned BERT and RoBERTa models to evaluate bias across 12 demographic groups and built reproducible ML pipelines for analysis.
 
-### 🧠 Neural Network Classifier
-Designed a neural network to classify images of water bottles, chairs, and bags using TensorFlow and Keras.
+### 📇 Meishi – Digital Business Card Platform
+
+Developed a full-stack platform with responsive frontend (HTML, CSS, JS) and scalable backend APIs (Node.js, Express, PostgreSQL). Implemented unit tests to ensure reliability.
+
+### 🦯 ENACT – AI Mobility Cane
+
+Built an embedded CNN vision system (TensorFlow/Keras) achieving 93% object recognition accuracy. Integrated Raspberry Pi sensors for real-time detection and audio feedback for accessibility.
 
 ---
