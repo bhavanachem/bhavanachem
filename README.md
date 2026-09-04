@@ -3,9 +3,9 @@
 ## About Me
 - 👋 Hi, I’m **Bhavana Chemuturi**, a passionate Computer Science major trying my best to learn all things tech!  
 - 🌱 I’m eager to learn anything and everything related to software development including cloud computing, with a special focus on exploring **Artificial Intelligence (AI)** and **Machine Learning (ML)**.    
-- 🎯 I'm currently a fellow in Break Through Tech AI learning ML & at university, I am learning Data Structures and Algorithms (C++ and Java), Computer Architecture (MIPS), and C in Unix!
+- 🎯 I'm an ex IBM & Toyota intern and recently completed a fellowship in Break Through Tech AI. I am a senior computer science major at UTD!
 - 😄 Pronouns: She/her
-- ✨ Fun Fact: I’m a big tennis, cricket, and pickleball enthusiast and enjoy participating in hackathons & tech clubs!
+- ✨ Fun Fact: I’m a big tennis, soccer, and pickleball enthusiast and enjoy participating in hackathons & tech clubs (rlly involved in Society of Women Engineers & Biotech Club)!
 - ℹ️**LinkedIn**: [bhavanachemuturi](https://www.linkedin.com/in/bhavana-chemuturi/)   
 
 ## Tech Stack
